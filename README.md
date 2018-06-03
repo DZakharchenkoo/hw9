@@ -6,3 +6,7 @@
 
 Использовала регулярное выражение: (Нов)+.(город)[^W]. Всего упоминаний Новгорода нашел: 58
 ![alt-текст](https://raw.githubusercontent.com/DZakharchenkoo/result.txt/master/Пункт%203%20ЦГ.png)
+
+Бонус
+Использовал_а регулярное выражение: ([!,.;:"?-]) Заменила на: $1 (пробел)
+![alt-текст](https://raw.githubusercontent.com/DZakharchenkoo/hw9/master/БОНУСССС.png)
